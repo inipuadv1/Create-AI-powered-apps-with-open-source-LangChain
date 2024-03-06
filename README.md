@@ -24,3 +24,6 @@ Author Course :
 
 - simple llm ![Result](https://github.com/inipuadv1/Create-AI-powered-apps-with-open-source-LangChain/blob/main/Screenshot%202024-03-06%20120950.png)
 - simple llm form ![Result](https://github.com/inipuadv1/Create-AI-powered-apps-with-open-source-LangChain/blob/main/Screenshot%202024-03-06%20122946.png)
+- [chain customer support] ![Result](https://github.com/inipuadv1/Create-AI-powered-apps-with-open-source-LangChain/blob/main/Screenshot%202024-03-06%20130751.png)
+- [Summarizer] ![Result](https://github.com/inipuadv1/Create-AI-powered-apps-with-open-source-LangChain/blob/main/Screenshot%202024-03-06%20131725.png)
+- [Memory] ![Result](https://github.com/inipuadv1/Create-AI-powered-apps-with-open-source-LangChain/blob/main/Screenshot%202024-03-06%20132312.png)
